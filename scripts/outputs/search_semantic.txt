@@ -1,0 +1,119 @@
+ Resultados para consulta: 'Chinese restaurant in Cardiff'
+
+Top 5 resultados para la consulta: 'Chinese restaurant in Cardiff':
+
+Similitud: 0.7408
+Nombre: Beijing Chinese Restaurant
+Tipo de comida: Chinese
+Dirección: 341 Albertbridge Road
+---------------
+Similitud: 0.7406
+Nombre: Beijing Palace Restaurant
+Tipo de comida: Chinese
+Dirección: 242 Prestwick Road
+---------------
+Similitud: 0.7034
+Nombre: Beijing Restaurant
+Tipo de comida: Chinese
+Dirección: 11 Chapel Brow
+---------------
+Similitud: 0.6867
+Nombre: Beijing Cuisine
+Tipo de comida: Chinese
+Dirección: 18 High Street
+---------------
+Similitud: 0.6864
+Nombre: 100 Degrees Chinese Restaurant
+Tipo de comida: Chinese
+Dirección: 67 Park Street
+---------------
+
+ Resultados para consulta: 'Italian restaurant in London'
+
+Top 5 resultados para la consulta: 'Italian restaurant in London':
+
+Similitud: 0.7284
+Nombre: Bella Roma Italian Restaurant
+Tipo de comida: Pizza
+Dirección: 191A Main Street
+---------------
+Similitud: 0.7284
+Nombre: Bella Roma Italian Restaurant
+Tipo de comida: Pizza
+Dirección: 191A Main Street
+---------------
+Similitud: 0.6791
+Nombre: Bella Italia Pizzeria
+Tipo de comida: Pizza
+Dirección: 4 Academy Street
+---------------
+Similitud: 0.6543
+Nombre: Bella Italia
+Tipo de comida: Pizza
+Dirección: 12 Unity place
+---------------
+Similitud: 0.6543
+Nombre: Bella Italia
+Tipo de comida: Pizza
+Dirección: 12 Unity place
+---------------
+
+ Resultados para consulta: 'Curry restaurant in Broughton'
+
+Top 5 resultados para la consulta: 'Curry restaurant in Broughton':
+
+Similitud: 0.7291
+Nombre: Blue Bengal Restaurant
+Tipo de comida: Curry
+Dirección: 101 High Street West Wickham
+---------------
+Similitud: 0.7291
+Nombre: Blue Bengal Restaurant
+Tipo de comida: Curry
+Dirección: 101 High Street West Wickham
+---------------
+Similitud: 0.7133
+Nombre: Aniseed Bar & Indian Restaurant
+Tipo de comida: Curry
+Dirección: 25 Westferry Road
+---------------
+Similitud: 0.7079
+Nombre: Amirul Indian & Thai Restaurant
+Tipo de comida: Curry
+Dirección: 10 Leicester Road
+---------------
+Similitud: 0.7073
+Nombre: Abbey Meads Indian Restaurant & Takeaway
+Tipo de comida: Curry
+Dirección: 5 Neighbourhood Centre
+---------------
+
+ Resultados para consulta: 'Thai food in Essex'
+
+Top 5 resultados para la consulta: 'Thai food in Essex':
+
+Similitud: 0.6488
+Nombre: Baan Siam Thai Cuisine
+Tipo de comida: Thai
+Dirección: 231 Dalton Road
+---------------
+Similitud: 0.6277
+Nombre: Bangkok Thai Kitchen
+Tipo de comida: Thai
+Dirección: 741 Green Lanes
+---------------
+Similitud: 0.6277
+Nombre: Bangkok Thai Kitchen
+Tipo de comida: Thai
+Dirección: 741 Green Lanes
+---------------
+Similitud: 0.6250
+Nombre: Bangkok Eatery
+Tipo de comida: Thai
+Dirección: 9 Marlowes
+---------------
+Similitud: 0.6100
+Nombre: Aumthong Thai Restaurant
+Tipo de comida: Thai
+Dirección: 60 Western Road
+---------------

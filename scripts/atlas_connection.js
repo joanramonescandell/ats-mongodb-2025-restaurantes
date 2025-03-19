@@ -1,9 +1,9 @@
 const { MongoClient } = require("mongodb");
 
 // URI de conexión a MongoDB Atlas
-const uri = "mongodb+srv://JoanRamon:joan1234@cluster0.tgdaa.mongodb.net/";
+const uri = "mongodb+srv://haoranye:o6CsduIQKTddrSZt@cluster0.tgdaa.mongodb.net//";
 
-const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
+const client = new MongoClient(uri); 
 
 async function connectDB() {
     try {
